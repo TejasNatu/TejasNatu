@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in scopes of machine learning, cryptocurrency, cybersecurity to name a few using python
 
-- 🌱 I’m currently learning data strucutres and algorithm and trying to make simplistic yet good projects.
+- 🌱 I’m currently learning data structures and algorithm and trying to make simplistic yet good projects.
 
 - 💞️ I’m looking to collaborate on any projects related to ML, crypto etc once I hone my knowledge in these domains
 
